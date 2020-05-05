@@ -1,0 +1,6 @@
+$nomention
+$title[Cat]
+$description[hello your cat has been delivered]
+$footer[snack shack • bot made by ava]
+$color[ffadad]
+$image[https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg]

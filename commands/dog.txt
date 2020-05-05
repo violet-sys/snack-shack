@@ -1,0 +1,6 @@
+$nomention
+$title[Dog]
+$description[your dog has been delivered]
+$footer[snack shack • bot made by ava]
+$color[ffa1a1]
+$image[https://cdn.mos.cms.futurecdn.net/QjuZKXnkLQgsYsL98uhL9X-1200-80.jpg]

@@ -1,0 +1,10 @@
+$nomention
+$color[ff0101]
+$authorIcon[https://cdn.discordapp.com/attachments/578508199330840579/582510059360092161/social-youtube-circular-button.png]
+$author[YouTube Search]
+$description[Search YouTube...
+https://m.youtube.com/results?search_query=$message
+Search: **$message**
+Author: **$username**]
+$argsCheck[>1;Hey! You need to search something! Don't **SPACE** when your searching something, you need to type **+** and the next word!]
+$deletecommand

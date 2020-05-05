@@ -1,0 +1,6 @@
+$nomention
+$title[Cat]
+$description[your cat has been delivered]
+$footer[snack shack • bot made by ava]
+$color[ffa6a6]
+$image[https://thepawspaok.com/wp-content/uploads/2015/05/kitty-.jpg]
