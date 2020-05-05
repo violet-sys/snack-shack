@@ -1,0 +1,27 @@
+$nomention
+$title[Commands]
+$description[ &Help - Shows commands.
+------------Fun-------------
+&Cat - order cat
+&AnotherCat - order another cat
+&Dog - order dog
+&Meme - coming soon
+&Youtube - Does a youtube search for the text provided.
+------------Moderation------------
+&Mute - Mutes the mentioned user.
+------------Administrator------------
+&Kick - Kicks the mentioned user.
+&Ban - Bans the mentioned user.
+&Warn - Warns the mentioned user.
+------------Utility------------
+&Ping - Tool to check bot status.
+&ID - Responds with server ID.
+&Owners - Responds with the owners of the bot and server.
+&Poll - Creates a poll.
+&Avatar - Responds with users avatar.
+&Server - Shows server information.
+&Google - Does a google search for the text provided.
+&Nuke - Clears the channels messages.]   
+$footer[snack shack • bot made by ava]
+$color[ffaaaa]
+$cooldown[5s;You need to wait to use this command.]
