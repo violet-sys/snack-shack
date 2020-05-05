@@ -1,0 +1,7 @@
+$nomention
+$title[Banned User]
+$description[User has been banned.]
+$footer[snack shack • bot made by ava]
+$color[ffa5a5]
+$ban[You've been banned from snack shack. I wonder what you did..]
+$blackListIDs[Waiters;Assistant Chefs;Premium Customers;Customers;You aren't allowed to use this command.]
