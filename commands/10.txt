@@ -1,0 +1,7 @@
+$nomention
+$title[Nuked channel.]
+$description[Successfully nuked channel.]
+$footer[snack shack • bot made by ava]
+$color[ffa1a1]
+$deletecommand
+$clear[10]
