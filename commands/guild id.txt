@@ -1,0 +1,5 @@
+$title[Server ID]
+$description[$guildID]
+$footer[snack shack • bot made by ava]
+$color[ff9f9f]
+$cooldown[5s;You need to wait to use this command.]

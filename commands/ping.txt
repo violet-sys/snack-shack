@@ -1,0 +1,2 @@
+Hello!
+$cooldown[5s;You need to wait to use this command.]

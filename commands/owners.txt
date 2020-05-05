@@ -1,0 +1,5 @@
+$title[Owners]
+$description[Bot owner; スケート一時的なものです。シオカラーズ永遠です。#6629 | Server owner; swizzou#6226]
+$footer[snack shack • bot made by ava]
+$color[ffb1b1]
+$cooldown[5s;You need to wait to use this command.]

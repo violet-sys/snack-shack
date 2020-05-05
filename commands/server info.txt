@@ -1,0 +1,18 @@
+$color[5b00ff]
+$author[Server Info]
+$serverInfo[
+**Owner:** {owner}
+**Server Name:** {name}
+**Server Region:** {region}
+**Verification Level:** {verificationLvl}
+**Channels:** $channelCount
+**Roles:** $roleCount
+**Total emotes:** $emoteCount
+**Server invite**: $getServerInvite
+**Server icon:** $serverIcon
+
+**Total Members**: $membersCount
+**Online**: $membersCount[online]
+**Idle**: $membersCount[idle]
+**Do not disturb**: $membersCount[dnd]]
+$addTimestamp

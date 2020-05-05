@@ -1,0 +1,6 @@
+$nomention
+$title[Poll Time!]
+$onlyAdmin[Only Admins/Moderators can use this command!]
+$addReactions[👍;👎]
+$description[$message] 
+$footer[snack shack • bot made by ava]

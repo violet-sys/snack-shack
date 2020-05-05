@@ -1,0 +1,7 @@
+$nomention
+$changeUsername[$noMentionMessage]
+$color[07deff]
+$author[Done]
+$description[
+Succesfully changed <@$mentioned[1]> Name to $noMentionMessage
+]
